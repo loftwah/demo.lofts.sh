@@ -1,0 +1,39 @@
+/*!
+
+=========================================================
+* NextJS Dashboard Lofts.sh
+=========================================================
+
+* Product Page: https://lofts.sh/product/nextjs-dashboard-lofts-sh
+* Copyright 2020 Dean Lofts (https://lofts.sh)
+
+* Coded by Dean Lofts
+
+=========================================================
+
+* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+*/
+
+
+// variables and mixins
+@import "nextjs-dashboard-lofts-sh/variables";
+@import "nextjs-dashboard-lofts-sh/mixins";
+@import "nextjs-dashboard-lofts-sh/shadows";
+
+// plugin css
+@import "nextjs-dashboard-lofts-sh/plugins/plugin-nouislider";
+@import "nextjs-dashboard-lofts-sh/plugins/plugin-perfect-scrollbar";
+@import "nextjs-dashboard-lofts-sh/plugins/plugin-react-datetime";
+@import "nextjs-dashboard-lofts-sh/plugins/plugin-react-bootstrap-sweetalert";
+@import "nextjs-dashboard-lofts-sh/plugins/plugin-react-chartist";
+@import "nextjs-dashboard-lofts-sh/plugins/plugin-react-big-calendar";
+@import "nextjs-dashboard-lofts-sh/plugins/plugin-react-jvectormap";
+@import "nextjs-dashboard-lofts-sh/plugins/plugin-react-table";
+@import "nextjs-dashboard-lofts-sh/plugins/plugin-react-tagsinput";
+
+// Core CSS
+@import "nextjs-dashboard-lofts-sh/misc";
+@import "nextjs-dashboard-lofts-sh/fileupload";
+@import "nextjs-dashboard-lofts-sh/fixed-plugin";
+@import "nextjs-dashboard-lofts-sh/page-transition";
