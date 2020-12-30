@@ -19,7 +19,7 @@ During the development of this dashboard, I have used many existing resources fr
 
 nextjs-lofts-sh
 
-.
+```bash
 ├── CHANGELOG.md
 ├── ISSUE_TEMPLATE.md
 ├── README.md
